@@ -1,4 +1,4 @@
-# Deploying-Machine-Learning-Models-on-Google-Cloud-Platform
+# Deploying a Prediction App on Google Cloud Platform (GCP)
 
 The App Engine is a cloud-based platform, is quite comprehensive, and combines infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). The runtime and languages are up-to-date, with great documentation. Features in the preview stage (beta) are made available to a large number of users, which keeps us informed of possible future developments.
 To deploy this model on the App Engine using a terminal, there are four major things needed, which are:
